@@ -1,7 +1,6 @@
 import os
 import sys
 import time
-import ipdb
 import random
 import cPickle as pickle
 import numpy as np
